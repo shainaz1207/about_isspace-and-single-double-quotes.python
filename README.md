@@ -1,0 +1,1 @@
+# about_isspace-and-single-double-quotes.python
